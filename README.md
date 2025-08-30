@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**bhavyavanawat24/bhavyavanawat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Bhavya Jain 
+🚀 ** Aspiring Full-Stack Developer**
 
-Here are some ideas to get you started:
+💻 Passionate about crafting seamless and interactive web experiences. Currently, diving deeper into Full-Stack Web Development to enhance my skills beyond the frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Interests
+🖥️ Frontend Development (React, JavaScript, Tailwind, CSS)
+⚙️ Backend Technologies (Node.js, Express, MongoDB)
+📱 UI/UX Design & Web Performance Optimization
+🤝 Open Source & Collaborative Projects
+🌱 Currently Learning
+Full-Stack Development (MERN Stack)
+Advanced JavaScript & TypeScript
+API Development & Database Management
+💞️ Looking to Collaborate On
+Open-source projects
+Frontend & Full-Stack Web Applications
+Web Performance Optimization
